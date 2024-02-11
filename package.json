@@ -1,0 +1,19 @@
+{
+  "name": "mocha_chai_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.0.3",
+    "mocha": "^10.3.0"
+  }
+}
